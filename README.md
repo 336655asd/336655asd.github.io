@@ -32,4 +32,4 @@ print("这是代码字段");
 
 
 ## 图片
-[动漫](https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=26671000,2729414830&fm=23&gp=0.jpg)
+![动漫](https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=26671000,2729414830&fm=23&gp=0.jpg)
